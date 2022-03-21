@@ -58,6 +58,24 @@ model-viewer {
   text-decoration: none;
 }
 
+#anectode{
+    
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #7EC8E3;
+    box-sizing: border-box;
+  }
+  
+ #annotation{
+    background-color: #fff;
+    position: absolute;
+    transform: translate(10px, 10px);
+    border-radius: 10px;
+    padding: 10px;
+  }
+
 footer {
   display: flex;
   flex-direction: column;
